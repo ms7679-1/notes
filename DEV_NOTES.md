@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 - Wrote notes on upcoming feature design
 - Addressed feedback from self code review
 - Checked for memory leaks in long-running path
+
+## 2026-03-23
+- Added basic usage examples to README
+- Updated .gitignore to exclude build artifacts
+- Refactored module structure for clarity
