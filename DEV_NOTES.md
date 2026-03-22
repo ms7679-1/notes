@@ -7,3 +7,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-22
 - Improved log message formatting
+
+## 2026-03-22
+- Wrote notes on upcoming feature design
