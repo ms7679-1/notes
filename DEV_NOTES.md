@@ -20,3 +20,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Updated .gitignore to exclude build artifacts
 - Refactored module structure for clarity
+
+## 2026-03-23
+- Investigated performance bottleneck, noted findings
+- Tidied up project structure
+- Addressed feedback from self code review
